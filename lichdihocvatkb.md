@@ -7,6 +7,7 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+{{ site.time | date: '%B %d, %Y' }}
 ## Thời khoá biểu sáng 
 ```markdown
 | Thứ 2                	|      Thứ 3     	|           Thứ 4 	| Thứ 5              	| Thứ 6                	| Thứ 7              	|
