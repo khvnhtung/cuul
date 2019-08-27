@@ -4,7 +4,7 @@ bio:                'Trang chủ A7K53'
 description:        "Dùng để cập nhật thông tin và tin tức mới"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "a7k53-kc.ga" # the base hostname & protocol for your site
+url: "https://a7k53-kc.ga" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
