@@ -8,7 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 ## Thời khoá biểu sáng 
-Today's date: {{ site.time | date: '%B %d, %Y' }}
+Today's date: {{ site.date | date: '%A' }}
 ```markdown
 | Thứ 2                	|      Thứ 3     	|           Thứ 4 	| Thứ 5              	| Thứ 6                	| Thứ 7              	|
 |----------------------	|:--------------:	|----------------:	|--------------------	|----------------------	|--------------------	|
