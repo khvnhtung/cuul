@@ -8,6 +8,7 @@ sitemap:
     changefreq: weekly
 ---
 
+
 ## Một số hoạt động sắp tới của trường trong tháng 9:
 * Khai giảng năm học 2018 - 2019 của Trường THPT Chuyên - 5/9/2019 
 * Event "Vui trung thu chào mừng K53" - Tháng 9/2019
