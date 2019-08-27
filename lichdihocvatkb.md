@@ -17,6 +17,11 @@ sitemap:
 | Văn - An        	| Anh - T.Nhung  	| Đại - Hiền    	| Văn - An        	| GDCD - Bình     	| Sinh Học - HiềnĐ 	|
 ## Thời khoá biểu chiều
 chưa có 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 ## Giờ vào học và ra chơi 
 
 
