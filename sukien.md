@@ -1,5 +1,3 @@
-
-
 ---
 layout: page
 title: Các sự kiện
