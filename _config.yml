@@ -10,16 +10,16 @@ url: "" # the base hostname & protocol for your site
 disqus_shortname:   default
 
 # Social
-# analytics-id:       "default"
-# twitter:            default
-# facebook:           default
+analytics-id:       "default"
+twitter:            
+facebook:           
 instagram:          https://www.instagram.com/a7k53.kc_/
-# github:             default
+github:             
 
 # personal
 location:           Vinh, Vietnam
 phone:              999
-email:              none@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              khanhtungle.dhv@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
