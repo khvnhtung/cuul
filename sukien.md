@@ -22,5 +22,5 @@ sitemap:
 
 ## Một số hoạt động hay khác 
 ```markdown
-* Thứ 7 hàng tuần tổ chức lao động cho các học sinh vi phạm | 14h - 16h30 hàng tuần
+* Thứ 7 hàng tuần tổ chức lao động cho các học sinh vi phạm - 14h - 16h30 hàng tuần
 ```
