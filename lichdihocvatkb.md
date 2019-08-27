@@ -7,8 +7,16 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## Thời khoá biểu
-
+## Thời khoá biểu sáng 
+| Thứ 2           | Thứ 3          | Thứ 4         | Thứ 5           | Thứ 6           | Thứ 7            |
+|-----------------|----------------|---------------|-----------------|-----------------|------------------|
+| Chào cờ         | Văn - An       | Anh - T.Nhung | Anh - T.Nhung   | Anh - T.Nhung   | Tin - VuAnh      |
+| Địa - Vân       | Văn - An       | Anh - T.Nhung | Anh - T.Nhung   | Thể dục - Phong | Lý - Tiến        |
+| Đại - HiềnD     | Sinh - Gái     | Hình - Lâm    | Đại - Hiền      | Sử - Thành      | Hoá - Thảo H     |
+| Thể Dục - Phong | Tin - VuAnh    | Lý - Tiến     | Công Nghệ - Gái | Sử - Thành      | Hoá - Thảo H     |
+| Văn - An        | Anh - T.Nhung  | Đại - Hiền    | Văn - An        | GDCD - Bình     | Sinh Học - HiềnĐ |
+## Thời khoá biểu chiều
+chưa có 
 ## Giờ vào học và ra chơi 
 
 
