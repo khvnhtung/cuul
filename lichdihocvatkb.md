@@ -8,25 +8,17 @@ sitemap:
     changefreq: weekly
 ---
 ## Thời khoá biểu sáng 
+```markdown
 | Thứ 2           	| Thứ 3          	| Thứ 4         	| Thứ 5           	| Thứ 6           	| Thứ 7            	|
-|-----------------	|:----------------	|:---------------	|:-----------------	|:-----------------	|:------------------	|
+|-----------------	|----------------	|---------------	|-----------------	|-----------------	|------------------	|
 | Chào cờ         	| Văn - An       	| Anh - T.Nhung 	| Anh - T.Nhung   	| Anh - T.Nhung   	| Tin - VuAnh      	|
 | Địa - Vân       	| Văn - An       	| Anh - T.Nhung 	| Anh - T.Nhung   	| Thể dục - Phong 	| Lý - Tiến        	|
 | Đại - HiềnD     	| Sinh - Gái     	| Hình - Lâm    	| Đại - Hiền      	| Sử - Thành      	| Hoá - Thảo H     	|
 | Thể Dục - Phong 	| Tin - VuAnh    	| Lý - Tiến     	| Công Nghệ - Gái 	| Sử - Thành      	| Hoá - Thảo H     	|
 | Văn - An        	| Anh - T.Nhung  	| Đại - Hiền    	| Văn - An        	| GDCD - Bình     	| Sinh Học - HiềnĐ 	|
+```
 ## Thời khoá biểu chiều
 chưa có 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
 ## Giờ vào học và ra chơi 
 
 
