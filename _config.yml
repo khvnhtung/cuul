@@ -1,5 +1,5 @@
 # Site
-title:              "A7K53 - THPT Chuyen DHV"
+title:              'A7K53 KC'
 bio:                'Trang chủ A7K53'
 description:        "Dùng để cập nhật thông tin và tin tức mới"
 locale:             en_US
@@ -11,10 +11,10 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            
-facebook:           
+twitter:            ""
+facebook:           ""
 instagram:          https://www.instagram.com/a7k53.kc_/
-github:             
+github:             ""
 
 # personal
 location:           Vinh, Vietnam
