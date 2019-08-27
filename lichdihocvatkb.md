@@ -20,12 +20,13 @@ sitemap:
 ## Thời khoá biểu chiều
 chưa có 
 ## Giờ vào học và ra chơi 
+```markdown
 6h45 - 7h30
 7h35 - 8h20
 8h25 - 9h10
 9h20 - 10h5
 10h10 - 10h55
-
+```
 <!-- ## About our Site
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
