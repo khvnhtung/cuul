@@ -9,23 +9,31 @@ sitemap:
 ---
 ## Thời khoá biểu sáng 
 ```markdown
-| Thứ 2          |      Thứ 3      |           Thứ 4 | Thứ 5                | Thứ 6                | Thứ 7          |
-|----------------|:---------------:|----------------:|----------------------|----------------------|----------------|
-| Chào cờ        |   Văn - Cô An   |  Anh - Cô Nhung | Anh - Cô Nhung       | Anh - Cô Nhung       | Tin - Cô VuAnh |
-| Địa - Cô Vân   |  Văn - Cô An    | Anh - Cô Nhung  | Anh - Cô Nhung       | Thể dục - Thầy Phong | Lý - Thầy Tiến |
-| Tin - Cô VuAnh | Sinh - Cô Gái   | Đại - Cô Đ.Hiền | Sử - Cô Thành        | Văn - Cô An          | Hoá - Cô Thảo  |
-| Đại - Cô Hiền  | C.Nghệ - Cô Gái | Hình - Thầy Lâm | Thể dục - Thầy Phong | Lí - Thầy Tiến       | Hoá - Cô Thảo  |
-| Đại - Cô Hiền  |  Anh - Cô Nhung |   Sử - Cô Thành | Văn - Cô An          | GDCD - Cô Bình       | Sinh hoạt lớp  |
+|      Thứ 2     |      Thứ 3      |      Thứ 4      |         Thứ 5        |         Thứ 6        |      Thứ 7     |
+|:--------------:|:---------------:|:---------------:|:--------------------:|:--------------------:|:--------------:|
+|     Chào cờ    |   Văn - Cô An   |  Anh - Cô Nhung |    Anh - Cô Nhung    |    Anh - Cô Nhung    | Tin - Cô VuAnh |
+|  Địa - Cô Vân  |    Văn - Cô An  |  Anh - Cô Nhung |    Anh - Cô Nhung    | Thể dục - Thầy Phong | Lý - Thầy Tiến |
+| Tin - Cô VuAnh |  Sinh - Cô Gái  | Đại - Cô Đ.Hiền |     Sử - Cô Thành    |      Văn - Cô An     |  Hoá - Cô Thảo |
+|  Đại - Cô Hiền | C.Nghệ - Cô Gái | Hình - Thầy Lâm | Thể dục - Thầy Phong |    Lí - Thầy Tiến    |  Hoá - Cô Thảo |
+|  Đại - Cô Hiền |  Anh - Cô Nhung |  Sử - Cô Thành  |      Văn - Cô An     |    GDCD - Cô Bình    |  Sinh hoạt lớp |
 ```
 ## Thời khoá biểu chiều
-chưa có 
+```markdown
+|           | Ca 1            | Ca 2             |
+|-----------|-----------------|------------------|
+| Thứ 2     | Hình - Thầy Lâm | không có         |
+| Thứ 5     | Anh (Chuyên đề) | Anh (Chuyên đề)  |
+| Thứ 6     | Văn - Cô An     | Đại - Cô Đ. Hiền |
+| Thời gian | 1h50' -> 3h20'  | 3h30' - 5h       |
+```
 ## Giờ vào học và ra chơi 
 ```markdown
-6h45 - 7h30
-7h35 - 8h20
-8h25 - 9h10
-9h20 - 10h5
-10h10 - 10h55
+| Tiết 1 | 6h45 - 7h30   |
+|--------|---------------|
+| Tiết 2 | 7h35 - 8h20   |
+| Tiết 3 | 8h25 - 9h10   |
+| Tiết 4 | 9h20 - 10h5   |
+| Tiết 5 | 10h10 - 10h55 |
 ```
 <!-- ## About our Site
 
