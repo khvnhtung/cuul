@@ -19,12 +19,7 @@ sitemap:
 ```
 ## Thời khoá biểu chiều
 ```markdown
-|           | Ca 1            | Ca 2             |
-|-----------|-----------------|------------------|
-| Thứ 2     | Hình - Thầy Lâm | không có         |
-| Thứ 5     | Anh (Chuyên đề) | Anh (Chuyên đề)  |
-| Thứ 6     | Văn - Cô An     | Đại - Cô Đ. Hiền |
-| Thời gian | 1h50' -> 3h20'  | 3h30' - 5h       |
+
 ```
 ## Giờ vào học và ra chơi 
 ```markdown
