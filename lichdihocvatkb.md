@@ -9,18 +9,18 @@ sitemap:
 ---
 ## Thời khoá biểu sáng 
 ```markdown
-|      Thứ 2     |      Thứ 3      |      Thứ 4      |         Thứ 5        |         Thứ 6        |      Thứ 7     |
-|:--------------:|:---------------:|:---------------:|:--------------------:|:--------------------:|:--------------:|
-|     Chào cờ    |   Văn - Cô An   |  Anh - Cô Nhung |    Anh - Cô Nhung    |    Anh - Cô Nhung    | Tin - Cô VuAnh |
-|  Địa - Cô Vân  |    Văn - Cô An  |  Anh - Cô Nhung |    Anh - Cô Nhung    | Thể dục - Thầy Phong | Lý - Thầy Tiến |
-| Tin - Cô VuAnh |  Sinh - Cô Gái  | Đại - Cô Đ.Hiền |     Sử - Cô Thành    |   GDCD - Cô Bình     |  Hoá - Cô Thảo |
-|  Đại - Cô Hiền | C.Nghệ - Cô Gái | Hình - Thầy Lâm | Thể dục - Thầy Phong |    Lí - Thầy Tiến    |  Hoá - Cô Thảo |
-|  Đại - Cô Hiền |  Anh - Cô Nhung |  Sử - Cô Thành  |      Văn - Cô An     |    Văn - Cô An       |  Sinh hoạt lớp |
+| Thứ 2   | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7    |
+|---------|-------|-------|-------|-------|----------|
+| Chào cờ | Văn   | Anh   | Anh   | Anh   | Tin      |
+| Địa     | Văn   | Anh   | Anh   | Thể   | Hình     |
+| Tin     | Hoá   | Đại   | Sử    | Lý    | Lý       |
+| Đại     | CNghệ | Hoá   | Thể   | GDCD  | Hình     |
+| Đại     | Sinh  | Địa   | Văn   | Văn   | SinhHoạt |
 
 ```
 ## Thời khoá biểu chiều
 ```markdown
-|           | Ca 1            | Ca 2             |
+<!-- |           | Ca 1            | Ca 2             |
 |-----------|-----------------|------------------|
 | Thứ 2     | Hình - Thầy Lâm | GDQG - Thầy Hùng |
 |-----------|-----------------|------------------|
@@ -28,16 +28,16 @@ sitemap:
 |-----------|-----------------|------------------|
 | Thứ 6     | Văn - Cô An     | Đại - Cô Đ. Hiền |
 |-----------|-----------------|------------------|
-| Thời gian | 1h50' -> 3h20'  | 3h30' - 5h       |
+| Thời gian | 1h50' -> 3h20'  | 3h30' - 5h       | -->
 ```
 ## Giờ vào học và ra chơi 
 ```markdown
-| Tiết 1 | 6h45 - 7h30   |
+<!-- | Tiết 1 | 6h45 - 7h30   |
 |--------|---------------|
 | Tiết 2 | 7h35 - 8h20   |
 | Tiết 3 | 8h25 - 9h10   |
 | Tiết 4 | 9h20 - 10h5   |
-| Tiết 5 | 10h10 - 10h55 |
+| Tiết 5 | 10h10 - 10h55 | -->
 ```
 <!-- ## About our Site
 
