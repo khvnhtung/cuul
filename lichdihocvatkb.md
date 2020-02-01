@@ -12,7 +12,7 @@ sitemap:
 | Thứ 2   | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7    |
 |---------|-------|-------|-------|-------|----------|
 | Chào cờ | Văn   | Anh   | Anh   | Anh   | Tin      |
-| Địa     | Văn   | Anh   | Anh   | Thể   | Hình     |
+| Địa     | Văn   | Thể   | Anh   | Anh   | Hình     |
 | Tin     | Hoá   | Đại   | Sử    | Lý    | Lý       |
 | Đại     | CNghệ | Hoá   | Thể   | GDCD  | Hình     |
 | Đại     | Sinh  | Địa   | Văn   | Văn   | SinhHoạt |
@@ -20,15 +20,15 @@ sitemap:
 ```
 ## Thời khoá biểu chiều
 ```markdown
-<!-- |           | Ca 1            | Ca 2             |
+|           | Ca 1            | Ca 2             |
 |-----------|-----------------|------------------|
-| Thứ 2     | Hình - Thầy Lâm | GDQG - Thầy Hùng |
+| Thứ 2     | Hình - Thầy Lâm |                  |
 |-----------|-----------------|------------------|
-| Thứ 5     | Anh (Chuyên đề) | Anh (Chuyên đề)  |
+| Thứ 3     | Đại             | Văn              |
 |-----------|-----------------|------------------|
-| Thứ 6     | Văn - Cô An     | Đại - Cô Đ. Hiền |
+| Thứ 5     | Anh             | Anh              |
 |-----------|-----------------|------------------|
-| Thời gian | 1h50' -> 3h20'  | 3h30' - 5h       | -->
+| Thời gian | 1h50' -> 3h20'  | 3h30' - 5h       |
 ```
 ## Giờ vào học và ra chơi 
 ```markdown

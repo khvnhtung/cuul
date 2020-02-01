@@ -11,7 +11,7 @@ Số người đã tham quan trang này:<br>
 | Thứ 2   | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7    |
 |---------|-------|-------|-------|-------|----------|
 | Chào cờ | Văn   | Anh   | Anh   | Anh   | Tin      |
-| Địa     | Văn   | Anh   | Anh   | Thể   | Hình     |
+| Địa     | Văn   | Thể   | Anh   | Anh   | Hình     |
 | Tin     | Hoá   | Đại   | Sử    | Lý    | Lý       |
 | Đại     | CNghệ | Hoá   | Thể   | GDCD  | Hình     |
 | Đại     | Sinh  | Địa   | Văn   | Văn   | SinhHoạt |
